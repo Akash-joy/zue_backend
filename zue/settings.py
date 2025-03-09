@@ -80,10 +80,10 @@ WSGI_APPLICATION = 'zue.wsgi.application'
 DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
-        'NAME': 'zue',
-        'USER': 'root',
-        'PASSWORD': '1234',
-        'HOST': 'localhost',
+        'NAME': 'akashAj$zue',  # Ensure this matches the database name
+        'USER': 'akashAj',
+        'PASSWORD': '1Qaz2Wsx!',
+        'HOST': 'akashAj.mysql.pythonanywhere-services.com',
         'PORT': '3306',
     }
 }
