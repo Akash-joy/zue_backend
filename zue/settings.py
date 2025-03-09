@@ -140,4 +140,4 @@ CORS_ALLOWED_ORIGINS = [
     'https://akash-joy.github.io',
     'https://akashaj.pythonanywhere.com',
 ]
-ALLOWED_HOSTS = ['akashaj.pythonanywhere.com', 'localhost', '127.0.0.1']
+ALLOWED_HOSTS = ['*']
