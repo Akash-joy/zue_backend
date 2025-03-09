@@ -138,6 +138,6 @@ CSRF_COOKIE_HTTPONLY = False
 CORS_ALLOWED_ORIGINS = [
     "http://localhost:4200",
     'https://akash-joy.github.io',
-    'akashaj.pythonanywhere.com',
+    'https://akashaj.pythonanywhere.com',
 ]
 ALLOWED_HOSTS = ['akashaj.pythonanywhere.com', 'localhost', '127.0.0.1']
